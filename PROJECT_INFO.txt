@@ -1,0 +1,5 @@
+PROJETO FRONT-END — IMPACTO SOLIDÁRIO
+
+Estrutura criada para a atividade acadêmica de Desenvolvimento Front-end.
+
+Antes de declarar que o projeto foi publicado, versionado ou medido, realize essas etapas de fato no GitHub/Vercel e guarde as URLs e resultados.
