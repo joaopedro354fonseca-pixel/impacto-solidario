@@ -30,7 +30,7 @@ A build é gerada na pasta `dist/`.
 O projeto utiliza landmarks semânticos, rótulos associados aos campos, navegação por teclado, foco visível, link para pular ao conteúdo, `aria-label`/`aria-live` quando necessários e suporte a preferência de movimento reduzido.
 
 ## Versionamento sugerido
-O repositório pode seguir GitFlow com `main`, `develop` e branches `feature/*`. Exemplos de commits:
+O projeto utiliza GitFlow, com `main` para versões estáveis, `develop` para desenvolvimento contínuo e branches `feature/*` para novas funcionalidades. Exemplos de commits:
 - `feat: cria estrutura inicial do projeto`
 - `feat: implementa interface principal`
 - `fix: corrige problemas de responsividade`
