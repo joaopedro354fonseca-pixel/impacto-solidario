@@ -38,5 +38,8 @@ O projeto utiliza GitFlow, com `main` para versões estáveis, `develop` para de
 ## Deploy
 Pode ser publicado em serviços como Vercel, Netlify ou GitHub Pages. Para Vercel, conecte o repositório GitHub, use `npm run build` como comando de build e publique a pasta `dist` quando a plataforma solicitar.
 
+## Responsividade
+A interface foi desenvolvida para se adaptar a diferentes tamanhos de tela, incluindo dispositivos móveis, tablets e computadores. Foram utilizados recursos de CSS responsivo e media queries para manter a organização e a usabilidade em diferentes resoluções.
+
 ## Observação acadêmica
 Os números de impacto exibidos na página são ilustrativos. Substitua-os por dados reais caso o projeto seja adaptado para uma organização existente. O formulário também é demonstrativo e não envia dados para um servidor.
